@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+name = "FileFlows"
+version = "0.0.1"
+description = "A library notifying when FileFlows is done"
+authors = ["Josh Loecker <joshloecker@icloud.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
