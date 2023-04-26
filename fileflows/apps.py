@@ -1,6 +1,6 @@
 import re
 
-from api import Apps, LunaSea, ResponseData
+from fileflows.api import Apps, LunaSea, ResponseData
 
 class Sonarr(Apps, LunaSea):
     def __init__(

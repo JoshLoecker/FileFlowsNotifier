@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import sys
-import apps
+from fileflows import apps
 
 
 if __name__ == '__main__':
