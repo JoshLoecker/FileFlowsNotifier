@@ -1,3 +1,3 @@
-from . import api
-from . import apps
-from . import logger
+from fileflows import api
+from fileflows import apps
+from fileflows import logger
